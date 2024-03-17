@@ -1,2 +1,2 @@
 # ak-web
-https://akbiplobsa.github.io/ak-web/
+https://akbiplobs.github.io/ak-web/
